@@ -19,7 +19,7 @@ This project provides a simple Weather Forecast API built with **Python** and **
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone <https://github.com/vasconceloseverton/APILab>
     cd <project-directory>
     ```
 
